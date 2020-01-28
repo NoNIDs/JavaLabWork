@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="144fb29a-2000-47eb-8907-2d0a08a31833" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ImageTest/ImageTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB9/LAB9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1OOP/chebanAD181/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chebanAD181/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP3LabJAVA/OOP3LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP4LabJAVA/OOP4LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP5LabJAVA/OOP5LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP6JAVA/OOP6JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP6LabJAVA/OOP6LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP7-1LabJAVA/OOP7-1LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP7-2(2.1)PainLabJAVA/OOP7-2(2.1)PainLabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP7-2(2.2)BinaryStudyLabJAVA/OOP7-2(2.2)BinaryStudyLabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP7-2-1LabJAVA/OOP7-2-1LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP7.2-ImagesLabJAVA/OOP7.2-ImagesLabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8-2LabJAVA/OOP8-2LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8-3LabJAVA/OOP8-3LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8-4LabJAVA/OOP8-4LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8Array100LabJAVA/OOP8Array100LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8CollectionLabJAVA/OOP8CollectionLabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP8LabJava(Array2)/OOP8LabJava(Array2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab6JAVA/OOPLab6JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OP2LabJAVA/OP2LabJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudyProject/StudyProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examWork/examWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simetriyaPrt/simetriyaPrt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Qsm40spZ4H234FOznR4ssxkuxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chebanAD181.Main" />
+      <module name="lab1OOP" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="144fb29a-2000-47eb-8907-2d0a08a31833" name="Default Changelist" comment="" />
+      <created>1568567485054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568567485054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chebanAD181/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
